@@ -3,13 +3,13 @@
 </h1>
 
 <div align="center">
-    <a href="https://github.com/fadhil1923/github-readme-stats">
+    <a href="https://github.com/AjiNugrohoRamadhan/github-readme-stats">
     <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=AjiNugrohoRamadhan&show_icons=true&theme=tokyonight" /> 
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/fadhil1923/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhil1923&layout=compact&langs_count=8&theme=tokyonight" />
+    <a href="https://github.com/AjiNugrohoRamadhan/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AjiNugrohoRamadhan&layout=compact&langs_count=8&theme=tokyonight" />
     </a>
 </div>
 <br>
